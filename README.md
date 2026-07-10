@@ -24,7 +24,7 @@ This project analyzes 2,300+ Flipkart customer reviews using Python, SQL, NLP, a
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](https://github.com/avishek93820/Flipkart-Review-Analytics-Dashboard/blob/3e4505defe78df18627363d471e01769baae0fca/flipkart-analytics-dashboard/Screenshots/dashboard.png)
 
 ## KPIs
 
